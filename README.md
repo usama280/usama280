@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently pursuing a **Master's of CS @ UIUC!**
-- 💬 Ask me about **Backend Development**
+- 💬 Ask me about **Backend Engineering and AI**
 - 📝 Check out my research in **[Information Retrieval](https://arxiv.org/abs/2210.00328)**
 - ⚡️ Most proficient at: **Java & Python**
 
